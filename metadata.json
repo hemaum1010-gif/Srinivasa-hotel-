@@ -1,0 +1,5 @@
+{
+  "name": "Srinivasa Hotel Calculator",
+  "description": "A handwriting-based hotel bill calculator with smart recognition for quantities and expressions.",
+  "requestFramePermissions": []
+}
